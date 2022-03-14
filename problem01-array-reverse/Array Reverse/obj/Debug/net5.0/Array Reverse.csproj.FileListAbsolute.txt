@@ -1,0 +1,16 @@
+D:\Advanced-repos\data-structures-and-algorithms\problem01-array-reverse\Array Reverse\bin\Debug\net5.0\Array Reverse.exe
+D:\Advanced-repos\data-structures-and-algorithms\problem01-array-reverse\Array Reverse\bin\Debug\net5.0\Array Reverse.deps.json
+D:\Advanced-repos\data-structures-and-algorithms\problem01-array-reverse\Array Reverse\bin\Debug\net5.0\Array Reverse.runtimeconfig.json
+D:\Advanced-repos\data-structures-and-algorithms\problem01-array-reverse\Array Reverse\bin\Debug\net5.0\Array Reverse.runtimeconfig.dev.json
+D:\Advanced-repos\data-structures-and-algorithms\problem01-array-reverse\Array Reverse\bin\Debug\net5.0\Array Reverse.dll
+D:\Advanced-repos\data-structures-and-algorithms\problem01-array-reverse\Array Reverse\bin\Debug\net5.0\Array Reverse.pdb
+D:\Advanced-repos\data-structures-and-algorithms\problem01-array-reverse\Array Reverse\obj\Debug\net5.0\Array Reverse.csproj.AssemblyReference.cache
+D:\Advanced-repos\data-structures-and-algorithms\problem01-array-reverse\Array Reverse\obj\Debug\net5.0\Array Reverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced-repos\data-structures-and-algorithms\problem01-array-reverse\Array Reverse\obj\Debug\net5.0\Array Reverse.AssemblyInfoInputs.cache
+D:\Advanced-repos\data-structures-and-algorithms\problem01-array-reverse\Array Reverse\obj\Debug\net5.0\Array Reverse.AssemblyInfo.cs
+D:\Advanced-repos\data-structures-and-algorithms\problem01-array-reverse\Array Reverse\obj\Debug\net5.0\Array Reverse.csproj.CoreCompileInputs.cache
+D:\Advanced-repos\data-structures-and-algorithms\problem01-array-reverse\Array Reverse\obj\Debug\net5.0\Array Reverse.dll
+D:\Advanced-repos\data-structures-and-algorithms\problem01-array-reverse\Array Reverse\obj\Debug\net5.0\refint\Array Reverse.dll
+D:\Advanced-repos\data-structures-and-algorithms\problem01-array-reverse\Array Reverse\obj\Debug\net5.0\Array Reverse.pdb
+D:\Advanced-repos\data-structures-and-algorithms\problem01-array-reverse\Array Reverse\obj\Debug\net5.0\Array Reverse.genruntimeconfig.cache
+D:\Advanced-repos\data-structures-and-algorithms\problem01-array-reverse\Array Reverse\obj\Debug\net5.0\ref\Array Reverse.dll
