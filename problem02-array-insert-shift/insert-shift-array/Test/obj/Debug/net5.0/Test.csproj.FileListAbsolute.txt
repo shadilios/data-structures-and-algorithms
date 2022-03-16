@@ -1,0 +1,16 @@
+C:\Users\shadi\Desktop\Play Ground\Test\bin\Debug\net5.0\Test.exe
+C:\Users\shadi\Desktop\Play Ground\Test\bin\Debug\net5.0\Test.deps.json
+C:\Users\shadi\Desktop\Play Ground\Test\bin\Debug\net5.0\Test.runtimeconfig.json
+C:\Users\shadi\Desktop\Play Ground\Test\bin\Debug\net5.0\Test.runtimeconfig.dev.json
+C:\Users\shadi\Desktop\Play Ground\Test\bin\Debug\net5.0\Test.dll
+C:\Users\shadi\Desktop\Play Ground\Test\bin\Debug\net5.0\Test.pdb
+C:\Users\shadi\Desktop\Play Ground\Test\obj\Debug\net5.0\Test.csproj.AssemblyReference.cache
+C:\Users\shadi\Desktop\Play Ground\Test\obj\Debug\net5.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shadi\Desktop\Play Ground\Test\obj\Debug\net5.0\Test.AssemblyInfoInputs.cache
+C:\Users\shadi\Desktop\Play Ground\Test\obj\Debug\net5.0\Test.AssemblyInfo.cs
+C:\Users\shadi\Desktop\Play Ground\Test\obj\Debug\net5.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\shadi\Desktop\Play Ground\Test\obj\Debug\net5.0\Test.dll
+C:\Users\shadi\Desktop\Play Ground\Test\obj\Debug\net5.0\refint\Test.dll
+C:\Users\shadi\Desktop\Play Ground\Test\obj\Debug\net5.0\Test.pdb
+C:\Users\shadi\Desktop\Play Ground\Test\obj\Debug\net5.0\Test.genruntimeconfig.cache
+C:\Users\shadi\Desktop\Play Ground\Test\obj\Debug\net5.0\ref\Test.dll
