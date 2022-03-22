@@ -3,4 +3,6 @@
 ### Table of contents:  
 1- Reverse Array problem: [reverse-array](https://github.com/shadilios/data-structures-and-algorithms/blob/main/problem01-array-reverse/Problem01-Readme.md)
 
-2- Insert Shift Array: [insert-shift-array](./problem02-array-insert-shift/Readme.md)
+2- Insert Shift Array: [insert-shift-array](./problem02-array-insert-shift/Readme.md)  
+
+3- Array Binary Search: [array-binary-search](https://github.com/shadilios/data-structures-and-algorithms/blob/main/problem03-array-binary-search/Readme.md)  
