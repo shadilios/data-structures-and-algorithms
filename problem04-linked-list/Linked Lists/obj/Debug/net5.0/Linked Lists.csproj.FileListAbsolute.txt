@@ -1,0 +1,16 @@
+D:\Advanced-repos\data-structures-and-algorithms\data-structures-and-algorithms\problem04-linked-list\Linked Lists\bin\Debug\net5.0\Linked Lists.exe
+D:\Advanced-repos\data-structures-and-algorithms\data-structures-and-algorithms\problem04-linked-list\Linked Lists\bin\Debug\net5.0\Linked Lists.deps.json
+D:\Advanced-repos\data-structures-and-algorithms\data-structures-and-algorithms\problem04-linked-list\Linked Lists\bin\Debug\net5.0\Linked Lists.runtimeconfig.json
+D:\Advanced-repos\data-structures-and-algorithms\data-structures-and-algorithms\problem04-linked-list\Linked Lists\bin\Debug\net5.0\Linked Lists.runtimeconfig.dev.json
+D:\Advanced-repos\data-structures-and-algorithms\data-structures-and-algorithms\problem04-linked-list\Linked Lists\bin\Debug\net5.0\Linked Lists.dll
+D:\Advanced-repos\data-structures-and-algorithms\data-structures-and-algorithms\problem04-linked-list\Linked Lists\bin\Debug\net5.0\Linked Lists.pdb
+D:\Advanced-repos\data-structures-and-algorithms\data-structures-and-algorithms\problem04-linked-list\Linked Lists\obj\Debug\net5.0\Linked Lists.csproj.AssemblyReference.cache
+D:\Advanced-repos\data-structures-and-algorithms\data-structures-and-algorithms\problem04-linked-list\Linked Lists\obj\Debug\net5.0\Linked Lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced-repos\data-structures-and-algorithms\data-structures-and-algorithms\problem04-linked-list\Linked Lists\obj\Debug\net5.0\Linked Lists.AssemblyInfoInputs.cache
+D:\Advanced-repos\data-structures-and-algorithms\data-structures-and-algorithms\problem04-linked-list\Linked Lists\obj\Debug\net5.0\Linked Lists.AssemblyInfo.cs
+D:\Advanced-repos\data-structures-and-algorithms\data-structures-and-algorithms\problem04-linked-list\Linked Lists\obj\Debug\net5.0\Linked Lists.csproj.CoreCompileInputs.cache
+D:\Advanced-repos\data-structures-and-algorithms\data-structures-and-algorithms\problem04-linked-list\Linked Lists\obj\Debug\net5.0\Linked Lists.dll
+D:\Advanced-repos\data-structures-and-algorithms\data-structures-and-algorithms\problem04-linked-list\Linked Lists\obj\Debug\net5.0\refint\Linked Lists.dll
+D:\Advanced-repos\data-structures-and-algorithms\data-structures-and-algorithms\problem04-linked-list\Linked Lists\obj\Debug\net5.0\Linked Lists.pdb
+D:\Advanced-repos\data-structures-and-algorithms\data-structures-and-algorithms\problem04-linked-list\Linked Lists\obj\Debug\net5.0\Linked Lists.genruntimeconfig.cache
+D:\Advanced-repos\data-structures-and-algorithms\data-structures-and-algorithms\problem04-linked-list\Linked Lists\obj\Debug\net5.0\ref\Linked Lists.dll
