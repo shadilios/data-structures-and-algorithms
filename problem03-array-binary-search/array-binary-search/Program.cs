@@ -8,7 +8,7 @@ namespace array_binary_search
         {
             
             int[] myArray = { 11, 22, 33, 44, 55, 66, 77 };
-            int key = 55;
+            int key = 33;
             Console.WriteLine(BinarySearch(myArray, key)); 
             
         }
