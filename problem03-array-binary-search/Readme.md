@@ -1,4 +1,4 @@
-The actual code and solution are in a console app [Here](./insert-shift-array)
+The actual code and solution are in a console app [Here](https://github.com/shadilios/data-structures-and-algorithms/tree/main/problem03-array-binary-search/array-binary-search)
 
 # Array-Binary-Search
 
@@ -8,10 +8,12 @@ Writing a function that takes a sorted array and a key value, if the key exists 
 
 ## Whiteboard Process:
 
-![Image](./insert-shift-array.png)
+![Image](https://github.com/shadilios/data-structures-and-algorithms/blob/main/problem03-array-binary-search/2022-03-22%2017_48_26-Mouse%20Highlight%20Overlay.png)
 <br><br><hr>
 
 ## Approach & Effeciency:
 
 I Loop over my array, if the element is found return its index, if not return the default value I set before which is -1;
 I also break if the first condition is met so that I don't loop over the whole array.
+
+In this situation we use O(n).
