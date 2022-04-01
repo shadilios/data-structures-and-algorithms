@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Advanced-repos\\data-structures-and-algorithms\\problem03-array-binary-search\\array-binary-search\\array-binary-search.csproj": {}
+    "D:\\Advanced-repos\\data-structures-and-algorithms\\data-structures-and-algorithms\\problem03-array-binary-search\\array-binary-search\\array-binary-search.csproj": {}
   },
   "projects": {
-    "D:\\Advanced-repos\\data-structures-and-algorithms\\problem03-array-binary-search\\array-binary-search\\array-binary-search.csproj": {
+    "D:\\Advanced-repos\\data-structures-and-algorithms\\data-structures-and-algorithms\\problem03-array-binary-search\\array-binary-search\\array-binary-search.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Advanced-repos\\data-structures-and-algorithms\\problem03-array-binary-search\\array-binary-search\\array-binary-search.csproj",
+        "projectUniqueName": "D:\\Advanced-repos\\data-structures-and-algorithms\\data-structures-and-algorithms\\problem03-array-binary-search\\array-binary-search\\array-binary-search.csproj",
         "projectName": "array-binary-search",
-        "projectPath": "D:\\Advanced-repos\\data-structures-and-algorithms\\problem03-array-binary-search\\array-binary-search\\array-binary-search.csproj",
+        "projectPath": "D:\\Advanced-repos\\data-structures-and-algorithms\\data-structures-and-algorithms\\problem03-array-binary-search\\array-binary-search\\array-binary-search.csproj",
         "packagesPath": "C:\\Users\\shadi\\.nuget\\packages\\",
-        "outputPath": "D:\\Advanced-repos\\data-structures-and-algorithms\\problem03-array-binary-search\\array-binary-search\\obj\\",
+        "outputPath": "D:\\Advanced-repos\\data-structures-and-algorithms\\data-structures-and-algorithms\\problem03-array-binary-search\\array-binary-search\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
