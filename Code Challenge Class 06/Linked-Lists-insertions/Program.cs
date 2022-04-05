@@ -19,8 +19,34 @@ namespace Linked_Lists_insertions
             list.AddToEnd(6);
             list.AddToEnd(7);
 
-            list.InsertAfter(99, 2);
+            //list.InsertAfter(99, 2);
 
+            MyList firstList = new MyList();
+            firstList.AddToEnd(1);
+            firstList.AddToEnd(3);
+            firstList.AddToEnd(5);
+
+            MyList secondList = new MyList();
+            secondList.AddToEnd(2);
+            secondList.AddToEnd(4);
+            secondList.AddToEnd(6);
+
+            firstList.Print();
+            Console.WriteLine("");
+            secondList.Print();
+            Console.WriteLine("");
+
+
+            MyList empty = new MyList();
+            empty.Print();
+
+            empty = MyList.Zip(firstList, secondList);
+
+            empty.Print();
+
+
+
+<<<<<<< HEAD
             list.Print();
 
 
@@ -31,6 +57,8 @@ namespace Linked_Lists_insertions
             Console.WriteLine($"The Kth element of {myKey} is: ");
             Console.WriteLine(list.Kth(myKey));
             
+=======
+>>>>>>> new-linked-list-zip
 
         }
     }
@@ -214,6 +242,7 @@ namespace Linked_Lists_insertions
             }
         }
 
+<<<<<<< HEAD
         public int Kth(int y)
         {
             //First i have to find how many elements i have [use counter]
@@ -256,10 +285,76 @@ namespace Linked_Lists_insertions
                 else
                 {
                     temp = temp.next;
+=======
+        public static MyList Zip(MyList firstList, MyList secondList)
+        {
+            MyList result = new MyList();
+
+            //find both lengths
+            int a = firstList.GetLength();
+            int b = secondList.GetLength();
+
+            int c = a + b;
+
+            for (int i = 1; i < c + 1; i++)
+            {
+                if (i%2 != 0)
+                {
+                    if (firstList.headNode != null)
+                    {
+                        result.AddToEnd(firstList.headNode.data);
+
+                        //now remove first Node from first list
+                        firstList.RemoveBeginning();
+                    }
+                }
+                if (i%2 == 0)
+                {
+                    if (secondList.headNode != null)
+                    {
+                        result.AddToEnd(secondList.headNode.data);
+
+                        //now remove first Node from second list
+                        secondList.RemoveBeginning();
+                    }
+>>>>>>> new-linked-list-zip
                 }
             }
 
             return result;
         }
+<<<<<<< HEAD
+=======
+
+        public int GetLength()
+        {
+            int length = 0;
+
+            if (headNode == null)
+            {
+                length = 0;
+            }
+            else
+            {
+                Node temp = headNode;
+                while (temp!= null)
+                {
+                    length++;
+                    temp = temp.next;
+                }
+            }
+            
+            return length;
+        }
+
+        public void RemoveBeginning()
+        {
+
+            headNode = headNode.next;
+
+            return;
+        }
+        
+>>>>>>> new-linked-list-zip
     }
 }
